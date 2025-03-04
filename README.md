@@ -1,5 +1,10 @@
 # AgentOrchestrator
-
+DB_HOST=172.16.200.34
+DB_USERNAME=agent_qa
+DB_PASSWORD=XS%40agent-qa-1
+DB_NAME=agent_qa_db
+DB_PORT=30901
+ 
 
 
 ## Getting started
