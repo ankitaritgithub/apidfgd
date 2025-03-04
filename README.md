@@ -5,7 +5,7 @@ DB_PASSWORD=XS%40agent-qa-1
 DB_NAME=agent_qa_db
 DB_PORT=30901
  
-
+Snowflake's Elastic Compute Architecture for AI Workloads
 
 ## Getting started
 
